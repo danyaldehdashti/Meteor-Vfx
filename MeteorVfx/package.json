@@ -14,8 +14,7 @@
     "com.unity.visualeffectgraph": "10.10.1"
   },
   "repository": {
-    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git",
-    "type": "git",
-    "revision": "01e57e3b7de18af9dfe9baaa0a0ff5cc4765c899"
+    "url": "https://github.com/danyaldehdashti/Meteor-Vfx.git",
+    "type": "git"
   }
 }
